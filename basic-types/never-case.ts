@@ -12,7 +12,7 @@
 //     }
 // };
 
-console.log(greet('Serval'));
+// console.log(greet('Serval'));
 
 const greet = (friend: 'Serval' | 'Caracal' | 'Cheetah') => { switch (friend) {
     case 'Serval':
